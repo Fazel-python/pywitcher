@@ -1,6 +1,15 @@
-# 👋 Hi, I’m Seyyed Fazel Ebrahimi
-- 👨‍💻 Blockchain Developer | Python Cryptography Enthusiast
-- 🔐 Specialised in Bitcoin Network, Merkle Trees, and Custom Wallet Implementations
-- 🧠 Currently preparing for IELTS (aiming 7+) and looking for opportunities in the USA $ UK tech scene
-- 🌱 I’m currently building open-source cryptographic tools with pure Python
-- 📫 Reach me: [LinkedIn] www.linkedin.com/in/seyyed-fazel-ebrahimi
+👋 Hi, I'm Fazel — Bitcoin & Cryptography Developer
+
+🔐 I build Bitcoin tools from scratch using pure Python
+   No libraries. Just raw ECC math, Base58, Bech32, and real protocol knowledge.
+
+⚡ What I've built:
+   • Bitcoin address generator (P2PKH, P2SH, Bech32) — pure Python
+   • Raw transaction builder & signer
+   • Blockchain address extractor via Blockstream API
+   • Multi-block LWE cryptosystem with Hamming error correction
+   • RSA implementation from scratch
+
+🛠 Stack: Python · Bitcoin Protocol · ECC · Cryptography · Smart Contracts
+
+📫 Open for freelance projects → seyyed.fazel.ebrahimi@gmail.com
